@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "capacitor-yarn-bug",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
